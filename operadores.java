@@ -1,4 +1,6 @@
-class static meus dados {
+public class operadores {
+
+
     public static void main(String[] args) {
       String = "Jeferson Matos";
       int numero = 29;
