@@ -7,7 +7,7 @@ public class operadores {
       String cidade = "Américo Brasiliense-SP";
       String profissao = "Motorista Canavieiro";
       
-      System.out.println();
+      System.out.println("nao desista ,você é foda");
      
      
         System.out.println();   
