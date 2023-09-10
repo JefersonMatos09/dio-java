@@ -1,18 +1,14 @@
-public class meusdados {
-
-
+public class operadores {
     public static void main(String[] args) {
-      String nomeString = "Jeferson Matos";
-      int idade = 29;
-      String cidade = "Américo Brasiliense-SP";
-      String profissao = "Motorista Canavieiro";
+        int a, b; 
 
-      profissao = "Programador Back-end";
-    
-        System.out.println("Qual o seu nome ? "+ nomeString); 
-        System.out.println("Qual a sua idade ? "+ idade);   
-        System.out.println("Qual a cidade você mora ? "+ cidade);
-        System.out.println("Qual a sua profissão ? " + profissao);
+        a = 6;
+        b = 10;
+
+        String resultado = a==b ?"Verdadeiro" :"Falso";
+  
+
+     System.out.println(resultado);
+        
     }
 }
-
