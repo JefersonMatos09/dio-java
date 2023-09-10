@@ -1,4 +1,4 @@
-public class operadores {
+public class meusdados {
 
 
     public static void main(String[] args) {
@@ -15,3 +15,4 @@ public class operadores {
         System.out.println("Qual a sua profissão ? " + profissao);
     }
 }
+
