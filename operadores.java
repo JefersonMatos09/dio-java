@@ -2,14 +2,16 @@ public class operadores {
 
 
     public static void main(String[] args) {
-      String = "Jeferson Matos";
-      int numero = 29;
+      String nomeString = "Jeferson Matos";
+      int idade = 29;
       String cidade = "Américo Brasiliense-SP";
       String profissao = "Motorista Canavieiro";
-      
-      System.out.println("nao desista ,você é foda");
-     
-     
-        System.out.println();   
+
+      profissao = "Programador Back-end";
+    
+        System.out.println("Qual o seu nome ? "+ nomeString); 
+        System.out.println("Qual a sua idade ? "+ idade);   
+        System.out.println("Qual a cidade você mora ? "+ cidade);
+        System.out.println("Qual a sua profissão ? " + profissao);
     }
 }
